@@ -32,10 +32,13 @@ Note: both of files need to locate the same directory or folder.
 ### There are four functions involved:
 
 1. Get-OSArchitecture
--- This function used for identifying OS architecture for the target system (Windows platform) i.e.: 32-bit or 64-bit
+> * This function used for identifying OS architecture for the target system (Windows platform) i.e.: 32-bit or 64-bit
+
 2. Get-7Zip
--- This function used for validating the existing of installed 7-Zip from target system.
+> * This function used for validating the existing of installed 7-Zip from target system.
+
 3. Get-7ZipBinary
--- This function used for downloading the latest version of 7-Zip from its site.
+> *  This function used for downloading the latest version of 7-Zip from its site.
 4. Install-7Zip
--- This function used for installing silently the 7-Zip binary from temporary download directory. i.e.: C:\Users<UserProfile>\Downloads
+
+> * This function used for installing silently the 7-Zip binary from temporary download directory. i.e.: C:\Users<UserProfile>\Downloads
