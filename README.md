@@ -1,8 +1,8 @@
 # auto-install-7Zip
-> -- 2020-11-16 Sukri Created
-> -- 2020-11-16 Sukri Added on what script does
-> -- 2020-11-16 Sukri Added on how to run the script
-> -- 2020-11-16 Sukri Added its function descriptions
+-- 2020-11-16 Sukri Created
+-- 2020-11-16 Sukri Added on what script does
+-- 2020-11-16 Sukri Added on how to run the script
+-- 2020-11-16 Sukri Added its function descriptions
 
 ---
 
@@ -13,10 +13,10 @@
 
 ## Below are steps on what script does:
 
-> 1. Identify OS architecture for target system (Windows platform that you want to install with 7-Zip) i.e.: 32-bit or 64-bit.
-> 2. Identify 7-Zip either installed or not for target system. If not yet installed, then proceed to download at step #3
-> 3. Download 7-Zip binary file from its site and temporarily locate into C:\Users<userprofile>\Downloads
-> 4. Install 7-Zip binary to target system silently.
+1. Identify OS architecture for target system (Windows platform that you want to install with 7-Zip) i.e.: 32-bit or 64-bit.
+2. Identify 7-Zip either installed or not for target system. If not yet installed, then proceed to download at step #3
+3. Download 7-Zip binary file from its site and temporarily locate into C:\Users<userprofile>\Downloads
+4. Install 7-Zip binary to target system silently.
 
 ---  
 
