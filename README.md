@@ -1,8 +1,8 @@
 # auto-install-7Zip
-2020-11-16 Sukri Created.
-2020-11-16 Sukri Added on what script does.
-2020-11-16 Sukri Added on how to run the script.
-2020-11-16 Sukri Added its function descriptions.
+2020-11-16 Sukri Created
+2020-11-16 Sukri Added on what script does
+2020-11-16 Sukri Added on how to run the script
+2020-11-16 Sukri Added its function descriptions
 
 ------------------------------------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Description:
 
 PowerShell script to install silently 7-Zip binary (Windows 10 + PS ver5.1.x) with getting latest version from its site. All done by automated way.
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:
 Below are steps on what script does:
 
 1. Identify OS architecture for target system (Windows platform that you want to install with 7-Zip) i.e.: 32-bit or 64-bit.
@@ -18,7 +18,7 @@ Below are steps on what script does:
 3. Download 7-Zip binary file from its site and temporarily locate into C:\Users<userprofile>\Downloads
 4. Install 7-Zip binary to target system silently.
   
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:
 how to run this script.
 
 1. Go to the cloned directory which contain both Install-7Zip.cmd and Install-7Zip.ps1 files.
@@ -26,7 +26,7 @@ how to run this script.
 
 *Note: both of files need to locate the same directory or folder.
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:
 There are four functions involved:
 
 1. Get-OSArchitecture
