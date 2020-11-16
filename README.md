@@ -41,4 +41,4 @@ Note: both of files need to locate the same directory or folder.
 > *  This function used for downloading the latest version of 7-Zip from its site.
 4. Install-7Zip
 
-> * This function used for installing silently the 7-Zip binary from temporary download directory. i.e.: C:\Users<UserProfile>\Downloads
+> * This function used for installing silently the 7-Zip binary from temporary download directory. i.e.: C:\Users\\[UserProfile]\Downloads
